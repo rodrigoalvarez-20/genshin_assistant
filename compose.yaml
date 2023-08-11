@@ -1,0 +1,27 @@
+version: '3'
+services:
+    documents_store:
+        image: elasticsearch:7.9.2
+        container_name: gi_dbstore
+        environment:
+            - discovery.type=single-node
+        ports:
+            - 9200:9200
+            - 9300:9300
+    conversation_store:
+        image: mongo:jammy
+        container_name: gi_mongo_storage
+        ports:
+            - 27017:27017
+    documents_gui:
+        image: elastichq/elasticsearch-hq:latest
+        container_name: gi_dbmanager
+        environment:
+            - HQ_DEFAULT_URL=http://documents_store:9200/
+            - HQ_ENABLE_SSL=False
+        ports:
+            - 5000:5000
+networks: 
+    network1:
+        name: elastic
+        external: true

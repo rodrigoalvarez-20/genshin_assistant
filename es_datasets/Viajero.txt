@@ -1,0 +1,99 @@
+VIAJERO
+
+El Viajero o la Viajera es un personaje jugable y el protagonista de Genshin Impact.
+
+Al comienzo del juego, ambos son hermanos mellizos de otro mundo que viajan por todo el universo, hasta que una Diosa desconocida los atacó, atrapando a uno de ellos y sellando su manera de viajar para dejarlos varados en Teyvat. Está acompañado por una compañera de viaje llamada Paimon durante todo su viaje.
+
+Aunque los jugadores pueden elegir el nombre por el que quieren ser referidos, el Hermano del Viajero (cualquier gemelo no elegido al comienzo del juego) se refiere al Viajero por el nombre de Éter o Lumina (dependiendo del género del gemelo elegido por el jugador), independientemente de su nombre personalizado.
+
+Perfil
+
+Un viajero de otro mundo a quien le arrebataron su único familiar, obligándolo a salir en un viaje para encontrar a Los Siete, dioses gobernantes de Teyvat.~ Texto de Atributos en el juego
+
+Apariencia
+
+Ambos hermanos tienen el pelo rubio brillante, aunque en el juego, el de Éter es de un tono más brillante. Tienen complexión delgada, ojos de color amarillo dorado y piel clara. Su piel es de un bronceado claro en comparación con los PNJ de Mondstadt. Adornan una paleta de colores contrastantes: el esquema de colores de Éter es principalmente negro, dorado y blanco, mientras que el de Lumina es blanco y azul. Los dos no son idénticos y difieren en sus características naturales.
+
+Éter usa un chaleco de coraza marrón oscuro que deja al descubierto su abdomen junto con una bufanda blanca y una capa de dos colas con bordados y calcomanías dorados. Lleva una hombrera dorada en el hombro izquierdo y un pendiente con borlas en la oreja izquierda. Viste pantalones de color marrón oscuro, guantes marrones y botas negras, y tiene pectorales ligeramente definidos que no aparecen en su modelo del juego. Su cabello es de corte mediano con una coleta larga trenzada, atado con una banda con borlas.
+
+Lumina lleva un vestido blanco sin mangas con una bufanda y dos capas de cola. También usa brazaletes y guantes que cubren solo su pulgar, con medias blancas y botas. Su cabello está cortado en una sacudida con flequillo, con colas gemelas rectas hasta los hombros, y está decorado con sus flores favoritas y plumas de color blanco azulado.
+
+Los Viajeros tienen piezas brillantes en su atuendo (el diamante en el pecho de Éter, su pendiente, sus guantes, botas y calcomanías en esta capa; el emblema en el abdomen de Lumina, los diamantes en su capa y sus medias) que cambian de color según el elemento. actualmente están en sintonía. En la escena de apertura con la Diosa desconocida, ambos hermanos tenían ropa blanca brillante y alas amarillas. Más tarde, después de la pelea con la Diosa desconocida, el Viajero elegido por el jugador perderá su luz blanca. Las piezas brillantes de Éter y Lumina se volverán negras hasta que interactúen con la primera Estatua de Los Siete con la que se encuentren. La ropa se iluminará de nuevo, pero esta vez se volverá del un color elemental, ya que están tomando prestado el poder de un Arconte. Este esquema de iluminación continuaría según el elemento que el hermano esté tomando prestado actualmente:
+
+Verde menta por el poder Anemo de Barbatos.
+Dorado por el poder Geo de Morax.
+Morado por el poder Electro de Beelzebul.
+Verde lima por el poder Dendro de Buer.
+
+Personalidad
+
+La personalidad del Viajero está determinada principalmente por el jugador. Su personalidad puede variar entre alguien estoico y humilde, alguien seguro de sí mismo y con mal temperamento, o como también alguien bondadoso con toques de sarcasmo.
+
+A pesar de esto, hay casos de opciones de un solo discurso u opciones similares que dan una idea de su personalidad en general. Por ejemplo, no cree que los dioses son más dignos de respeto inmerecido que los habitantes mortales de Teyvat. También está deliberadamente desinteresado ​​en involucrarse en los problemas de cada nación sin una buena razón. Su respuesta a la "muerte" de Morax fue inicialmente simplemente irse, tanto para evitar sospechas como aparentemente un nivel de apatía considerando las circunstancias de su llegada al mundo.
+
+Esta tendencia continúa en Inazuma, donde el Viajero inicialmente niega la ayuda a la resistencia y se niega a tomar partido, interesado solo en reunirse con la Shogun Raiden. Sin embargo, a pesar de esta vacilación para involucrarse, el Viajero es en última instancia una persona compasiva, y llegar a comprender las circunstancias de cada situación los llevó a revertir sus posturas iniciales.
+
+Asimismo, conforme pasa el tiempo es cada vez más consciente de que todo el mundo le manda a cumplir recados, por lo que se muestra harto/a de esto, aunque de igual forma acaba realizándolos.
+
+Historia
+
+Detalles del personaje
+
+La protectora está agonizando; el creador aún no ha llegado.
+
+Pero el mundo no arderá más, pues tú ascenderás a los cielos.
+
+Historia del personaje (1)
+ 
+Un niño y una niña se pararon en medio del tumulto, bajo un cielo desconocido. 
+Ustedes eran un par de gemelos que viajaban, pasando por innumerables mundos durante su viaje.
+Descendieron sobre un continente llamado Teyvat, esperando poder disfrutar de su estancia.
+Pero cuando despertaste entre estrellas cayendo, viste el mundo en caos, un cataclismo arrasando la tierra...
+Trataron de abandonar este lugar y pasar al siguiente mundo, pero una divinidad desconocida apareció ante ustedes, impidiéndoles el paso.
+Esta deidad inmaculada flotaba sobre un mundo de caos mientras te miraba.
+La divinidad se llevó a tu único familiar, y te encerraron y te arrojaron a un letargo profundo lleno de pesadillas...
+Cuando al fin despertaste, el mundo había cambiado.
+Las llamas de la guerra ya no ardían y ya nada te era familiar.
+¿Por cuánto tiempo dormiste? Era imposible de saber.
+Fue así que comenzaste un viaje solitario, buscando a la deidad que viste una vez...
+
+Historia del personaje (2)
+ 
+Después de eso, conociste a Paimon, con quien deambulaste por un tiempo. 
+Aprendiste que este mundo tiene siete deidades, conocidas como Los Siete Arcontes, que gobiernan a las Siete Naciones.
+Tu primera parada fue la Capital de la Libertad, el vino y la música bucólica: Mondstadt, una ciudad construida por el Arconte Anemo.
+Al entrar a Mondstadt como un forastero, fuiste, como en otras tierras, intimidado/a por amenazas tanto humanas como no humanas.
+La amenaza no humana estaba conformada por la organización conocida como la Orden del Abismo.
+La amenaza humana, por otro lado, provenía de la ambición de la Emperatriz del Hielo, la diosa de Snezhnaya.
+La Orden del Abismo corrompió a un aliado del Arconte Anemo, el Dragón del Este y de los Cuatro Vientos de Mondstadt.
+Los emisarios de Snezhnaya, por su parte, aprovecharon la oposición del Abismo como una excusa para presionar a Mondstadt.
+Estas amenazas externas e internas obligaron a que el Arconte Anemo regresara y adoptara la forma de un bardo que se unió a tu expedición para salvar al dragón.
+Sin embargo, mientras el dragón caía al abismo, no fuiste capaz de ver en sus ojos el reflejo de cierta figura que gobierna el Abismo, alguien que viajó contigo una vez, y con quien cruzaste muchos mundos.
+
+Historia del personaje (3)
+ 
+(Próximamente...)
+
+Historia del personaje (4)
+ 
+(Próximamente...)
+
+Historia del personaje (5)
+ 
+(Próximamente...)
+
+Telar del destino
+ 
+(Próximamente...)
+
+Visión
+ 
+Cuando se enfrentan a circunstancias más allá de su control, los humanos a menudo lamentan su falta de poder.
+Los deseos de algunos hombres eran tan fuertes que atraían la mirada de las deidades.
+Estas ofrecían a los elegidos un artefacto mágico conocido con el nombre de "Visión", el cual les permitía dominar los elementos.
+Celestia es el reino de los dioses, y los portadores de Visión caminan por la tierra. Cuando parten de este mundo, los elegidos ascienden.
+Después de llegar a este mundo, a menudo escuchas a las personas hablar de tales cosas.
+Tú, por otra parte, nunca podrás recibir una Visión, ya que un/una forastero/a como tú nunca pertenecerá a este mundo.
+¿Es prudente permitir que un momento de ambición domine toda una vida?
+En tu viaje a través de muchos mundos, has meditado sobre esta y otras cuestiones, las cuales requieren una reflexión profunda...
+
